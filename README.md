@@ -107,12 +107,19 @@ Technologies: HTML • CSS • JavaScript
 📚 Self-Learning	Continuously improving my knowledge
 💻 Programming	Building strong coding fundamentals
 📚 Currently Learning
+
 Programming Fundamentals  ████████████████░░░░ 80%
+
 Web Development            ██████████████░░░░░░ 70%
+
 Databases                  ████████████░░░░░░░░ 60%
+
 Linux                      ██████████░░░░░░░░░░ 50%
+
 Cloud Computing            ███████░░░░░░░░░░░░░ 35%
+
 DevOps                     █████░░░░░░░░░░░░░░░ 25%
+
 🗺️ Career Roadmap
 Year	Focus	Target
 🎓 Year 1 (2026–27)	Linux, Networking, Cloud Basics	Portfolio Website on AWS
